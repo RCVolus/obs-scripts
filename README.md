@@ -1,2 +1,2 @@
-# obs-fly-full
-Fly full animation as OBS script
+# obs-scripts
+Collection of useful OBS scripts
